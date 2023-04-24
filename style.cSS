@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(134, 2, 13);
+}
+
+h1 {
+    color: snow;
+}
+
+h2 {
+    color: snow;
+    text-align: center;
+}
+
+h3 {
+    color: snow;
+}
+
+#logo{
+    padding-left: 750px ;
+}
